@@ -6,7 +6,6 @@
 Application::Application(const int& screenWidth, const int& screenHeight, const char* title)
 {
     InitWindow(screenWidth, screenHeight, title);
-    SetTargetFPS(60);
     startX = 0;
     startY = 0;
     endX = 0;

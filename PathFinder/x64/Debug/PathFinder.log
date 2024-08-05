@@ -1,18 +1,18 @@
 ﻿  application.cpp
-C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(86,61): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
-C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(86,44): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
-C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(88,78): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
-C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(88,50): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(85,61): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(85,44): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(87,78): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(87,50): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(88,49): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
 C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(89,49): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
-C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(90,49): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
-C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(93,66): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
-C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(93,49): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
-C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(95,78): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
-C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(95,50): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(92,66): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(92,49): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(94,78): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(94,50): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(95,47): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
 C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(96,47): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
-C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(97,47): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
-C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(105,75): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
-C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(105,47): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
-C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(107,78): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
-C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(107,50): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(104,75): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(104,47): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(106,78): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(106,50): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
   PathFinder.vcxproj -> C:\Users\HR-PC\source\repos\PathFinder\x64\Debug\PathFinder.exe

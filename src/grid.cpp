@@ -1,10 +1,7 @@
 #include "grid.h"
 
-Grid::Grid(const int& width, const int& height, const int& cellSize)
+Grid::Grid(const int& width, const int& height, const int& cellSize) : m_cellSize(cellSize), m_rows(height / cellSize), m_columns(width / cellSize)
 {
-	m_cellSize = cellSize;
-	m_rows = height / cellSize;
-	m_columns = width / cellSize;
 	m_cells.resize(m_rows, std::vector<CellState>(m_columns, EMPTY));
 }
 

@@ -15,4 +15,9 @@ C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(104,75): warning C424
 C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(104,47): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
 C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(106,78): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
 C:\Users\HR-PC\source\repos\PathFinder\src\application.cpp(106,50): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+  astar.cpp
+C:\Users\HR-PC\source\repos\PathFinder\src\astar.cpp(5,30): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  grid.cpp
+  main.cpp
+  Generating Code...
   PathFinder.vcxproj -> C:\Users\HR-PC\source\repos\PathFinder\x64\Debug\PathFinder.exe

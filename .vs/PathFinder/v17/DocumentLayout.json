@@ -7,14 +7,6 @@
       "RelativeMoniker": "D:0:0:{2C1ADA76-1307-416C-BE6D-ECC3177F68AF}|PathFinder.vcxproj|solutionrelative:src\\application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C1ADA76-1307-416C-BE6D-ECC3177F68AF}|PathFinder.vcxproj|C:\\Users\\HR-PC\\source\\repos\\PathFinder\\headers\\application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2C1ADA76-1307-416C-BE6D-ECC3177F68AF}|PathFinder.vcxproj|solutionrelative:headers\\application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C1ADA76-1307-416C-BE6D-ECC3177F68AF}|PathFinder.vcxproj|C:\\Users\\HR-PC\\source\\repos\\PathFinder\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2C1ADA76-1307-416C-BE6D-ECC3177F68AF}|PathFinder.vcxproj|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2C1ADA76-1307-416C-BE6D-ECC3177F68AF}|PathFinder.vcxproj|C:\\Users\\HR-PC\\source\\repos\\PathFinder\\src\\astar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2C1ADA76-1307-416C-BE6D-ECC3177F68AF}|PathFinder.vcxproj|solutionrelative:src\\astar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -29,6 +21,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{2C1ADA76-1307-416C-BE6D-ECC3177F68AF}|PathFinder.vcxproj|C:\\Users\\HR-PC\\source\\repos\\PathFinder\\headers\\grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2C1ADA76-1307-416C-BE6D-ECC3177F68AF}|PathFinder.vcxproj|solutionrelative:headers\\grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1ADA76-1307-416C-BE6D-ECC3177F68AF}|PathFinder.vcxproj|C:\\Users\\HR-PC\\source\\repos\\PathFinder\\headers\\application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C1ADA76-1307-416C-BE6D-ECC3177F68AF}|PathFinder.vcxproj|solutionrelative:headers\\application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1ADA76-1307-416C-BE6D-ECC3177F68AF}|PathFinder.vcxproj|C:\\Users\\HR-PC\\source\\repos\\PathFinder\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C1ADA76-1307-416C-BE6D-ECC3177F68AF}|PathFinder.vcxproj|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "astar.cpp",
               "DocumentMoniker": "C:\\Users\\HR-PC\\source\\repos\\PathFinder\\src\\astar.cpp",
               "RelativeDocumentMoniker": "src\\astar.cpp",
@@ -50,35 +50,38 @@
               "RelativeToolTip": "src\\astar.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-04T14:24:47.151Z"
+              "WhenOpened": "2024-08-04T14:24:47.151Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "astar.h",
               "DocumentMoniker": "C:\\Users\\HR-PC\\source\\repos\\PathFinder\\headers\\astar.h",
               "RelativeDocumentMoniker": "headers\\astar.h",
               "ToolTip": "C:\\Users\\HR-PC\\source\\repos\\PathFinder\\headers\\astar.h",
               "RelativeToolTip": "headers\\astar.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-04T14:14:22.947Z"
+              "WhenOpened": "2024-08-04T14:14:22.947Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "grid.cpp",
               "DocumentMoniker": "C:\\Users\\HR-PC\\source\\repos\\PathFinder\\src\\grid.cpp",
               "RelativeDocumentMoniker": "src\\grid.cpp",
               "ToolTip": "C:\\Users\\HR-PC\\source\\repos\\PathFinder\\src\\grid.cpp",
               "RelativeToolTip": "src\\grid.cpp",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAADUAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-03T17:34:15.329Z"
+              "WhenOpened": "2024-08-03T17:34:15.329Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "grid.h",
               "DocumentMoniker": "C:\\Users\\HR-PC\\source\\repos\\PathFinder\\headers\\grid.h",
               "RelativeDocumentMoniker": "headers\\grid.h",
@@ -86,11 +89,12 @@
               "RelativeToolTip": "headers\\grid.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-03T17:28:51.753Z"
+              "WhenOpened": "2024-08-03T17:28:51.753Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "application.h",
               "DocumentMoniker": "C:\\Users\\HR-PC\\source\\repos\\PathFinder\\headers\\application.h",
               "RelativeDocumentMoniker": "headers\\application.h",
@@ -116,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\HR-PC\\source\\repos\\PathFinder\\src\\main.cpp",
               "RelativeDocumentMoniker": "src\\main.cpp",
